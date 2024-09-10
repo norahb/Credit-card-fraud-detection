@@ -6,8 +6,7 @@ This project implements a machine learning model for detecting fraudulent credit
 
 ## Dataset
 
-We used the Credit Card Fraud Detection dataset from Kaggle:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+We used the Credit Card Fraud Detection [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) from Kaggle
 
 This dataset contains transactions made by credit cards in September 2013 by European cardholders. It includes:
 
