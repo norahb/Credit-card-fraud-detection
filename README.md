@@ -6,7 +6,10 @@ This project implements a machine learning model for detecting fraudulent credit
 
 ## Dataset
 
-The dataset used in this project contains transactions made by credit cards in September 2013 by European cardholders. It includes:
+We used the Credit Card Fraud Detection dataset from Kaggle:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+This dataset contains transactions made by credit cards in September 2013 by European cardholders. It includes:
 
 - **Total Transactions**: 284,807
 - **Fraudulent Transactions**: 492 (0.172% of all transactions)
